@@ -23,6 +23,7 @@ extensions = [
   'sphinx_rtd_theme',
   'sphinx_copybutton',
   'sphinx_markdown_tables',
+  'sphinx_github_changelog'
 ]
 
 source_suffix = ['.rst', '.md']
